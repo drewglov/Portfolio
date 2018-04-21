@@ -4,6 +4,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 # Contents
 
-• Data Wrangling & Exploratory Analysis
-  
-  ◦Blah
+# • Data Wrangling & Exploratory Analysi
+
+     ◦Blah
