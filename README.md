@@ -21,7 +21,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 
 ##### • Linear Regression
-   [App or Website?](https://github.com/drewglov/Portfolio/blob/master/Linear%20Regression%20-%20App%20or%20Website.ipynb) - In this porblem, we will train a linear regression model to give insights into if an ecommerce company should focus their efforts on their mobile app or their website.
+   [App or Website?](https://github.com/drewglov/Portfolio/blob/master/Linear%20Regression%20-%20App%20or%20Website.ipynb) - In this problem, we will train a linear regression model to give insights into if an ecommerce company should focus their efforts on their mobile app or their website.
 
 ### Classification
 
