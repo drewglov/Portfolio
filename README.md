@@ -7,17 +7,20 @@ Repository containing portfolio of data science projects completed by me for aca
 ### • Data Wrangling & Exploratory Analysis
 
 
-   ◦ Blah
+####   ◦ Blah
    
 ### • Regression
 
 
-   ◦ Linear Regression - 
+####   ◦ Linear Regression
 
 ### • Classification
 
 
-   ◦ Logistic Regression - 
+####   ◦ Logistic Regression
   
   
-   ◦ K Nearest Neighbors - 
+####   ◦ K Nearest Neighbors
+
+
+####   ◦ Decision Trees & Random Forests
