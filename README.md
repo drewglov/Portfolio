@@ -24,3 +24,12 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
    #####   ◦ Decision Trees & Random Forests
+
+
+   #####   ◦ Support Vector Machines
+   
+   
+### • Clustering
+   
+   
+   #####   ◦ K Means Clustering
