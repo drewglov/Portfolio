@@ -2,6 +2,9 @@
 
 Repository containing portfolio of data science projects completed by me for academic, self-learning, and hobby purposes. Presented in the form of iPython Notebooks. These projects have been completed using Python 3.6 unless otherwise specified.
 
+I am always willing to meet new people in hopes of doing business together. I can be reached via email at drewrglov@gmail.com.
+
+
 ## Contents
 
 ### Data Wrangling & Exploratory Analysis
@@ -48,7 +51,3 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ### Big Data & Spark
 
-
-
-
-I am always willing to meet new people in hopes of doing business together. I can be reached via email at drewrglov@gmail.com.
