@@ -14,8 +14,6 @@ I am always willing to meet new people in hopes of doing business together. I ca
 ##### • Principal Component Analysis
 
 
-*Tools: *
-
 ### Data Visualization
 
 
