@@ -21,7 +21,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 
 ##### • Linear Regression
-This site was built using [GitHub Pages](https://pages.github.com/).
+[App or Website?](https://github.com/drewglov/Portfolio/blob/master/Linear%20Regression%20-%20App%20or%20Website.ipynb).
 
 ### Classification
 
