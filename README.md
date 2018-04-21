@@ -21,6 +21,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 
 ##### • Linear Regression
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 ### Classification
 
