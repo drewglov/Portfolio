@@ -9,27 +9,27 @@ Repository containing portfolio of data science projects completed by me for aca
 ##### • Blah
 
    
-### • Regression
+### Regression
 
 
-   #####   ◦ Linear Regression
+##### • Linear Regression
 
-### • Classification
+### Classification
 
 
-   #####   ◦ Logistic Regression
+##### • Logistic Regression
   
   
-   #####   ◦ K Nearest Neighbors
+##### • K Nearest Neighbors
 
 
-   #####   ◦ Decision Trees & Random Forests
+##### • Decision Trees & Random Forests
 
 
-   #####   ◦ Support Vector Machines
+##### • Support Vector Machines
    
    
-### • Clustering
+### Clustering
    
    
-   #####   ◦ K Means Clustering
+##### • K Means Clustering
