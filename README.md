@@ -9,9 +9,9 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ### Data Wrangling & Exploratory Analysis
 
-##### • Utilizing Pandas & Numpy
+##### Utilizing Pandas & Numpy
 
-##### • Principal Component Analysis
+##### Principal Component Analysis
 
 
 ### Data Visualization
@@ -26,25 +26,25 @@ I am always willing to meet new people in hopes of doing business together. I ca
 ### Classification
 
 
-##### • Logistic Regression
+##### Logistic Regression
   
   
-##### • K Nearest Neighbors
+##### K Nearest Neighbors
 
 
-##### • Decision Trees & Random Forests
+##### Decision Trees & Random Forests
 
 
-##### • Support Vector Machines
+##### Support Vector Machines
    
    
 ### Clustering
    
    
-##### • K Means Clustering
+##### K Means Clustering
 
 
-##### • Mean Shift Clustering
+##### Mean Shift Clustering
 
 
 ### Recommender Systems
