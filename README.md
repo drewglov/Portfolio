@@ -9,11 +9,14 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ### Data Wrangling & Exploratory Analysis
 
-##### • Blah
+##### • Utilizing Pandas & Numpy
 
 ##### • Principal Component Analysis
 
-   
+
+### Data Visualization
+
+
 ### Regression
 
 
@@ -38,6 +41,9 @@ I am always willing to meet new people in hopes of doing business together. I ca
    
    
 ##### • K Means Clustering
+
+
+##### • Mean Shift Clustering
 
 
 ### Recommender Systems
