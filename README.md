@@ -14,6 +14,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
 ##### Principal Component Analysis
 
 ##### Image Processing
+   • [Prepping Images for Nuclei Detection](https://github.com/drewglov/Portfolio/blob/master/Data%20Prep%20with%20Images.ipynb) - This workbook demonstrates pre-processing images of nuclei so that they can be more easily detected via a nueral network. The images used are from Kaggle's 2018 Data Science Bowl. You can learn more about this [here](https://www.kaggle.com/c/data-science-bowl-2018).
 
 
 ### Data Visualization
