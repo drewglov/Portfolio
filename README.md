@@ -51,10 +51,12 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [SVM Optimization from Scratch](https://github.com/drewglov/Portfolio/blob/master/SVM%20optimization%20from%20scratch.ipynb) - Here, we will work on optimizing an SVM from scratch so that we have a deeper understanding of the theory behind SVMs.
    
 ### Clustering
-   
-   
-##### K Means Clustering
 
+
+##### K Means Clustering
+   • [Visualizing K Means Clustering](https://github.com/drewglov/Portfolio/blob/master/Visualizing%20K%20Means.ipynb) - We will create a simple visualization of K Means clustering to deepen our understanding of how it works.
+   
+   • [Can K Means Clustering Determine Titanic Survivors?](https://github.com/drewglov/Portfolio/blob/master/Clustering%20-%20KMeans%20Titanic%20and%20Handling%20Text.ipynb) - For this project, we would like to use K Means clustering on the famous Titanic Passenger dataset to see if the K Means algorithm can give us any insight as to which factors led to a passenger's death or survival.
 
 ##### Mean Shift Clustering
    • [Can Mean Shift Clustering Determine Titanic Survivors?](https://github.com/drewglov/Portfolio/blob/master/Mean%20Shift%20with%20Titanic%20Data.ipynb) - In this workbook, we will use mean shift clustering on the famaous Titanic dataset to see if it can provide us with any valuable insight as to which factors led to death or survival.
