@@ -37,7 +37,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 
 ##### Logistic Regression
-  
+   • [Logistic Regression for Targeted Advertisements](https://github.com/drewglov/Portfolio/blob/master/Logistic%20Regression%20for%20Targeted%20Advertisements.ipynb) - In this project we will be working with an advertising data set, indicating whether or not a particular internet user clicked on an advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
   
 ##### K Nearest Neighbors
 
