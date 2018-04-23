@@ -46,7 +46,9 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 
 ##### Support Vector Machines
+   • [Predicting if a Breast Lump is Malignant or Benign](https://github.com/drewglov/Portfolio/blob/master/SVM%20-%20Breast%20Cancer.ipynb) - In this workbook, we will build an SVM model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump.
    
+   • [SVM Optimization from Scratch](https://github.com/drewglov/Portfolio/blob/master/SVM%20optimization%20from%20scratch.ipynb) - Here, we will work on optimizing an SVM from scratch so that we have a deeper understanding of the theory behind SVMs.
    
 ### Clustering
    
