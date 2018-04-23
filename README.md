@@ -31,6 +31,8 @@ I am always willing to meet new people in hopes of doing business together. I ca
    
    • [Google Stock Predictions](https://github.com/drewglov/Portfolio/blob/master/Regression%20-%20Stock.ipynb) - In this project, we work in creating a regression model that attempts to predict Google's stock prices for up to 35 days in the future. Of course, this project is for learning purposes only, as there are too many unpredictable factors to take into account with the stock market.
 
+   • [Building a Linear Regression Model from Scratch](https://github.com/drewglov/Portfolio/blob/master/Linear%20regression%20from%20scratch.ipynb) - Here, we will build a linear regression model from scratch in order to better understand the theory behind it.
+
 ### Classification
 
 
