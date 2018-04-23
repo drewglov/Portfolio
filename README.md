@@ -40,6 +40,10 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Logistic Regression for Targeted Advertisements](https://github.com/drewglov/Portfolio/blob/master/Logistic%20Regression%20for%20Targeted%20Advertisements.ipynb) - In this project we will be working with an advertising data set, indicating whether or not a particular internet user clicked on an advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
   
 ##### K Nearest Neighbors
+   • [K Nearest Neighbors Classification on Classified Data](https://github.com/drewglov/Portfolio/blob/master/K%20Nearest%20Neighbors%20with%20Classified%20Data.ipynb) - We've been given a classified data set from a company. They've hidden the feature column names but have given us the data and the target classes. We'll try to use KNN to create a model that directly predicts a class for a new data point based off of the features.
+   
+   • [K Nearest Neighbors Classification on Classified Data 2](https://github.com/drewglov/Portfolio/blob/master/K%20Nearest%20Neighbors%20with%20Classified%20Data%202.ipynb) - A project similar to 'K Nearest Neighbors Classification on Classified Data', but with a different data set. This is to test the KNN method in multiple scenarios to examine its versatility.
+
    • [Predicting if a Breast Lump is Malignant or Benign with K Nearest Neighbors](https://github.com/drewglov/Portfolio/blob/master/K%20Nearest%20Neighbors%20-%20Breast%20Cancer.ipynb) - In this workbook, we will build a K Nearest Neighbors model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump.
    
    • [Building a K Nearest Neighbors Model from Scratch](https://github.com/drewglov/Portfolio/blob/master/K%20Nearest%20Neighbors%20from%20Scratch.ipynb) - In this notebook, we will build a K Nearest Neighbors model from scratch and visualize the results of the model in order to gain a deeper understanding of the theory behind K Nearest Neighbors.
