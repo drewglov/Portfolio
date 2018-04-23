@@ -28,6 +28,8 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ##### Linear Regression
    • [App or Website?](https://github.com/drewglov/Portfolio/blob/master/Linear%20Regression%20-%20App%20or%20Website.ipynb) - In this problem, we will train a linear regression model to give insights into if an ecommerce company should focus their efforts on their mobile app or their website.
+   
+   • [Google Stock Predictions](https://github.com/drewglov/Portfolio/blob/master/Regression%20-%20Stock.ipynb) - In this project, we work in creating a regression model that attempts to predict Google's stock prices for up to 35 days in the future. Of course, this project is for learning purposes only, as there are too many unpredictable factors to take into account with the stock market.
 
 ### Classification
 
