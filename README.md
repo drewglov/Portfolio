@@ -7,21 +7,6 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ## Contents
 
-### Data Wrangling & Exploratory Analysis
-
-##### Utilizing Pandas & Numpy
-
-##### Principal Component Analysis
-
-##### Image Processing
-   • [Prepping Images for Nuclei Detection](https://github.com/drewglov/Portfolio/blob/master/Data%20Prep%20with%20Images.ipynb) - This workbook demonstrates pre-processing images of nuclei so that they can be more easily detected via a nueral network. The images used are from Kaggle's 2018 Data Science Bowl. You can learn more about this [here](https://www.kaggle.com/c/data-science-bowl-2018).
-
-
-##### Data Parsing
-   • [Parsing Delimited Values to Multiple Rows](https://github.com/drewglov/Portfolio/blob/master/Parsing%20Data%20in%20Python.ipynb) - In this notebook, we explore a simple and quick solution to a common problem with datasets.
-
-### Data Visualization
-
 
 ### Regression
 
@@ -49,7 +34,9 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Building a K Nearest Neighbors Model from Scratch](https://github.com/drewglov/Portfolio/blob/master/K%20Nearest%20Neighbors%20from%20Scratch.ipynb) - In this notebook, we will build a K Nearest Neighbors model from scratch and visualize the results of the model in order to gain a deeper understanding of the theory behind K Nearest Neighbors.
 
 ##### Decision Trees & Random Forests
-
+   • [Predicting Loan Defaults with Random Forests](https://github.com/drewglov/Portfolio/blob/master/Predicting%20Loan%20Defaults%20with%20Random%20Forests.ipynb) - For this project we will be exploring publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this.
+   
+   • [Predicting Kyphosis with Decision Trees & Random Forests](https://github.com/drewglov/Portfolio/blob/master/Predicting%20Kyphosis%20with%20Decision%20Trees%20%26%20Random%20Forests.ipynb) - In this notebook, we will explore decision trees and random forests models, and use them to attempt to predict if a person will continue to suffer from Kyphosis after a corrective surgery based on a few characteristics of that person. This dataset is small, and the purpose of this project is to gain an understanding of decision trees and random forests.
 
 ##### Support Vector Machines
    • [Predicting if a Breast Lump is Malignant or Benign with SVMs](https://github.com/drewglov/Portfolio/blob/master/SVM%20-%20Breast%20Cancer.ipynb) - In this workbook, we will build an SVM model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump.
@@ -80,3 +67,15 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ### Big Data & Spark
 
+
+### Misc.
+
+##### Principal Component Analysis
+
+
+##### Image Processing
+   • [Prepping Images for Nuclei Detection](https://github.com/drewglov/Portfolio/blob/master/Data%20Prep%20with%20Images.ipynb) - This workbook demonstrates pre-processing images of nuclei so that they can be more easily detected via a nueral network. The images used are from Kaggle's 2018 Data Science Bowl. You can learn more about this [here](https://www.kaggle.com/c/data-science-bowl-2018).
+
+
+##### Data Parsing
+   • [Parsing Delimited Values to Multiple Rows](https://github.com/drewglov/Portfolio/blob/master/Parsing%20Data%20in%20Python.ipynb) - In this notebook, we explore a simple and quick solution to a common problem with datasets.
