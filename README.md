@@ -55,7 +55,9 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 
 ##### Mean Shift Clustering
-
+   • [Can Mean Shift Clustering Determine Titanic Survivors?](https://github.com/drewglov/Portfolio/blob/master/Mean%20Shift%20with%20Titanic%20Data.ipynb) - In this workbook, we will use mean shift clustering on the famaous Titanic dataset to see if it can provide us with any valuable insight as to which factors led to death or survival.
+   
+   • [Means Shift Visual](https://github.com/drewglov/Portfolio/blob/master/Hierarchical%20Clustering%20-%20Mean%20Shift.ipynb) - This is a simple 3d plot of a means shift clustering assignment to help provide a better understanding of means shift clustering.
 
 ### Recommender Systems
 
