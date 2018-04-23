@@ -40,13 +40,15 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Logistic Regression for Targeted Advertisements](https://github.com/drewglov/Portfolio/blob/master/Logistic%20Regression%20for%20Targeted%20Advertisements.ipynb) - In this project we will be working with an advertising data set, indicating whether or not a particular internet user clicked on an advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
   
 ##### K Nearest Neighbors
-
+   • [Predicting if a Breast Lump is Malignant or Benign with K Nearest Neighbors](https://github.com/drewglov/Portfolio/blob/master/K%20Nearest%20Neighbors%20-%20Breast%20Cancer.ipynb) - In this workbook, we will build a K Nearest Neighbors model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump.
+   
+   • [Building a K Nearest Neighbors Model from Scratch](https://github.com/drewglov/Portfolio/blob/master/K%20Nearest%20Neighbors%20from%20Scratch.ipynb) - In this notebook, we will build a K Nearest Neighbors model from scratch and visualize the results of the model in order to gain a deeper understanding of the theory behind K Nearest Neighbors.
 
 ##### Decision Trees & Random Forests
 
 
 ##### Support Vector Machines
-   • [Predicting if a Breast Lump is Malignant or Benign](https://github.com/drewglov/Portfolio/blob/master/SVM%20-%20Breast%20Cancer.ipynb) - In this workbook, we will build an SVM model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump.
+   • [Predicting if a Breast Lump is Malignant or Benign with SVMs](https://github.com/drewglov/Portfolio/blob/master/SVM%20-%20Breast%20Cancer.ipynb) - In this workbook, we will build an SVM model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump.
    
    • [SVM Optimization from Scratch](https://github.com/drewglov/Portfolio/blob/master/SVM%20optimization%20from%20scratch.ipynb) - Here, we will work on optimizing an SVM from scratch so that we have a deeper understanding of the theory behind SVMs.
    
