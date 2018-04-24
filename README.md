@@ -77,6 +77,11 @@ I am always willing to meet new people in hopes of doing business together. I ca
 ##### Principal Component Analysis
    • [PAC on Breast Cancer Data Set Features](https://github.com/drewglov/Portfolio/blob/master/Misc/Principal%20Component%20Analysis.ipynb) - In this project we will be performing Principal Component Analysis (PCA) on the breast cancer dataset you might be familiar with from other projects in this portfolio.
 
+
+##### Data Exploration and Analysis
+   • [Exploratory Data Analysis on Stock Prices](https://github.com/drewglov/Portfolio/blob/master/Misc/Data%20Exploration%20%26%20Analysis%20-%20Stock%20Prices.ipynb) - In this project we will focus on exploratory data analysis of stock prices. We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
+
+
 ##### Image Processing
    • [Prepping Images for Nuclei Detection](https://github.com/drewglov/Portfolio/blob/master/Misc/Data%20Prep%20with%20Images.ipynb) - This workbook demonstrates pre-processing images of nuclei so that they can be more easily detected via a nueral network. The images used are from Kaggle's 2018 Data Science Bowl. You can learn more about this [here](https://www.kaggle.com/c/data-science-bowl-2018).
  
