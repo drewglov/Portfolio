@@ -39,7 +39,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Predicting Kyphosis with Decision Trees & Random Forests](https://github.com/drewglov/Portfolio/blob/master/Classification/Predicting%20Kyphosis%20with%20Decision%20Trees%20%26%20Random%20Forests.ipynb) - In this notebook, we will explore decision trees and random forests models, and use them to attempt to predict if a person will continue to suffer from Kyphosis after a corrective surgery based on a few characteristics of that person. This dataset is small, and the purpose of this project is to gain an understanding of decision trees and random forests.
 
 ##### Support Vector Machines
-   • [Predicting if a Breast Lump is Malignant or Benign with SVMs](https://github.com/drewglov/Portfolio/blob/master/Classification/SVM%20-%20Breast%20Cancer.ipynb) - In this workbook, we will build an SVM model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump.
+   • [Breast Cancer Predictions with SVM and Grid Search](https://github.com/drewglov/Portfolio/blob/master/Classification/%20Breast%20Cancer%20Predictions%20with%20SVM.ipynb) - In this workbook, we will build an SVM model in order to attempt to predict instances of breast cancer and whether a lump is benign or malignant based on certain characteristics of the lump. We will use GridSearchCV() to tune our model.
    
    • [SVM Optimization from Scratch](https://github.com/drewglov/Portfolio/blob/master/Classification/SVM%20optimization%20from%20scratch.ipynb) - Here, we will work on optimizing an SVM from scratch so that we have a deeper understanding of the theory behind SVMs.
    
