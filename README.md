@@ -51,6 +51,8 @@ I am always willing to meet new people in hopes of doing business together. I ca
 ##### K Means Clustering
    • [Visualizing K Means Clustering](https://github.com/drewglov/Portfolio/blob/master/Clustering/Visualizing%20K%20Means.ipynb) - We will create a simple visualization of K Means clustering to deepen our understanding of how it works.
    
+   • [Public or Private?](https://github.com/drewglov/Portfolio/blob/master/Clustering/K%20Means%20Clustering%20-%20Public%20or%20Private.ipynb) - For this project we will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public. It is **important to note**, we actually have the labels for this data set, but we will NOT use them for the KMeans clustering algorithm, since it is an unsupervised learning algorithm. We will use these labels for a classification report at the end of the project.
+   
    • [Can K Means Clustering Determine Titanic Survivors?](https://github.com/drewglov/Portfolio/blob/master/Clustering/Clustering%20-%20KMeans%20Titanic%20and%20Handling%20Text.ipynb) - For this project, we would like to use K Means clustering on the famous Titanic Passenger dataset to see if the K Means algorithm can give us any insight as to which factors led to a passenger's death or survival.
 
 ##### Mean Shift Clustering
