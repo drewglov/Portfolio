@@ -60,9 +60,6 @@ I am always willing to meet new people in hopes of doing business together. I ca
    
    • [Means Shift Visual](https://github.com/drewglov/Portfolio/blob/master/Clustering/Hierarchical%20Clustering%20-%20Mean%20Shift.ipynb) - This is a simple 3d plot of a means shift clustering assignment to help provide a better understanding of means shift clustering.
 
-### Recommender Systems
-
-
 ### Natural Language Processing
 
 
