@@ -61,7 +61,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Means Shift Visual](https://github.com/drewglov/Portfolio/blob/master/Clustering/Hierarchical%20Clustering%20-%20Mean%20Shift.ipynb) - This is a simple 3d plot of a means shift clustering assignment to help provide a better understanding of means shift clustering.
 
 ### Natural Language Processing
-
+   • [Classifying Yelp! Reviews with NLP](https://github.com/drewglov/Portfolio/blob/master/Natural%20Language%20Processing/Classifying%20Yelp!%20Reviews%20with%20NLP.ipynb) - In this NLP project we will be attempting to classify Yelp Reviews into positive or negative categories based off the text content in the reviews.
 
 ### Neural Networks & Deep Learning
 
