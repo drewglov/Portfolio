@@ -66,9 +66,6 @@ I am always willing to meet new people in hopes of doing business together. I ca
 ### Neural Networks & Deep Learning
 
 
-### Big Data & Spark
-
-
 ### Misc.
 
 ##### Principal Component Analysis
