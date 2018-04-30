@@ -64,7 +64,9 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Classifying Yelp! Reviews with NLP](https://github.com/drewglov/Portfolio/blob/master/Natural%20Language%20Processing/Classifying%20Yelp!%20Reviews%20with%20NLP.ipynb) - In this NLP project we will be attempting to classify Yelp reviews into positive or negative categories based off the text content in the reviews.
 
 ### Neural Networks & Deep Learning
-
+   • [Bank Note Authentication with Tensorflow](https://github.com/drewglov/Portfolio/blob/master/Deep%20Learning/Bank%20Note%20Authentication%20with%20TF.ipynb) - In this project, we will build a model that uses Tensorflow to predict whether a bank note is authentic or not.
+   
+   • [MNIST Multi-Layer Perceptron](https://github.com/drewglov/Portfolio/blob/master/Deep%20Learning/MNIST%20with%20Multi-Layer%20Perceptron.ipynb) - In this project we will build out a Multi Layer Perceptron model in Tensorflow to try to classify hand written digits using the famous MNIST data set. The purpose of this project isn't to achieve peak accuracy on the MNIST data set, but rather to demonstrate the underlying concepts of Tensorflow without using contrib.learn.
 
 ### Misc.
 
