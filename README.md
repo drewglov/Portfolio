@@ -77,7 +77,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
 ### Misc.
 
 ##### Principal Component Analysis
-   • [PAC on Breast Cancer Data Set Features](https://github.com/drewglov/Portfolio/blob/master/Misc/Principal%20Component%20Analysis.ipynb) - In this project we will be performing Principal Component Analysis (PCA) on the breast cancer dataset you might be familiar with from other projects in this portfolio.
+   • [PCA on Breast Cancer Data Set Features](https://github.com/drewglov/Portfolio/blob/master/Misc/Principal%20Component%20Analysis.ipynb) - In this project we will be performing Principal Component Analysis (PCA) on the breast cancer dataset you might be familiar with from other projects in this portfolio.
 
 
 ##### Data Exploration and Analysis
