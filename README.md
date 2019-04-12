@@ -63,6 +63,10 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Means Shift Visual](https://github.com/drewglov/Portfolio/blob/master/Clustering/Hierarchical%20Clustering%20-%20Mean%20Shift.ipynb) - This is a simple 3d plot of a means shift clustering assignment to help provide a better understanding of means shift clustering.
 
 ### Natural Language Processing
+   • [Scraping Yelp! Reviews and Classifying with the Best Classifier](https://github.com/drewglov/Portfolio/blob/master/Natural%20Language%20Processing/Sentiment%20Analysis%20for%20scraped%20reviews.ipynb) - In this NLP project we will set up a dataframe of raw review data for some local McDonald's, scraped off of Yelp!. We will structure the data, play around with it, and then determine the best algorithm for classifying the reviews as positive or negative. We will then test the classifier with test data and new sentences.
+   
+   • [Testing TextBlob's Sentiment Classification Abilities](https://github.com/drewglov/Portfolio/blob/master/Natural%20Language%20Processing/TextBlob%20test.ipynb) - In this NLP project we will set up a dataframe of movie review data that is stored as seperate files for each review. We will then stucture and split the data for training and testing. Using a Naive Bayes algorithm as a base, we will compare TextBlob's native classification abilities, as well as a Naive Bayes algorithm created with TextBlob.
+
    • [Classifying Yelp! Reviews with NLP](https://github.com/drewglov/Portfolio/blob/master/Natural%20Language%20Processing/Classifying%20Yelp!%20Reviews%20with%20NLP.ipynb) - In this NLP project we will be attempting to classify Yelp reviews into positive or negative categories based off the text content in the reviews.
 
 ### Neural Networks & Deep Learning
