@@ -90,3 +90,6 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ##### Data Parsing
    • [Parsing Delimited Values to Multiple Rows](https://github.com/drewglov/Portfolio/blob/master/Misc/Parsing%20Data%20in%20Python.ipynb) - In this notebook, we explore a simple and quick solution to a common problem with datasets.
+
+##### Fun & Games
+   • [Playing Cards w/ Python](https://github.com/drewglov/Portfolio/blob/master/Misc/Cards.ipynb) - Here, I create a simple program that allows users to draw from a deck of cards.
