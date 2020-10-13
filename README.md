@@ -21,7 +21,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
    • [Building a Linear Regression Model from Scratch](https://github.com/drewglov/Portfolio/blob/master/Regression/Linear%20regression%20from%20scratch.ipynb) - Here, we will build a linear regression model from scratch in order to better understand the theory behind it.
      
 ##### Nonparametric Regression
-   • [Local Regression with LOESS Curve Fitting](https://github.com/drewglov/Portfolio/blob/master/Regression/Local%20Regression%20with%20Loess%20Curve%20Fitting.ipynb) - LOESS (locally weighted smoothing), is a tool used in regression analysis that creates a smooth line by considering the closest data points to the current data point and adjusting it accordingly.
+   • [Local Regression with LOESS Curve Fitting](https://github.com/drewglov/Portfolio/blob/master/Regression/Local%20Regression%20with%20Loess%20Curve%20Fitting.ipynb) - LOESS (locally weighted smoothing) is a tool used in regression analysis that creates a smooth line by considering the closest data points to the current data point and adjusting it accordingly.
 
 ### Classification
 
