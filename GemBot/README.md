@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ### The Strategy
 The application uses a voting system of RSIs and Bollinger Bands. These functions are explained more in the 'Parameters' section below.
 
-RSI: If the RSI passes the RSI overbought threshold, there is a vote to SELL. If the RSI passes the oversold threshold, there is a vore to BUY.
+RSI: If the RSI passes the RSI overbought threshold, there is a vote to SELL. If the RSI passes the oversold threshold, there is a vote to BUY.
 
 Bollinger Bands: If the latest close passes the upper Bollinger Band, there is a vote to SELL. If the latest close passes the lower Bollinger Band, there is a vote to BUY.
 
