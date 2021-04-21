@@ -27,15 +27,15 @@ Bollinger Bands: If the latest close passes the upper Bollinger Band, there is a
 All BUY and SELL orders are 'immediate or cancel'.
 
 ### PREREQUISITES
-	You will need an API Key and API Sectret from Gemini Exchange. This allows the 	application to  communicate with the Gemini Exchange and Market. You can easily 	obtain one of these from https://www.gemini.com/ under Account -> Settings -> API.
+You will need an API Key and API Sectret from Gemini Exchange. This allows the 	application to  communicate with the Gemini Exchange and Market. You can easily 	obtain one of these from https://www.gemini.com/ under Account -> Settings -> API.
 Please also ensure you have funds in your Gemini account that correspond to the Trade Currency you have selected (see 'Parameters').
 
 ### STARTING THE APPLICATION
-	When you start this application, a blank terminal will appear. Please allow for up to 15 seconds for the application interface to appear as well.
-	Once you have entered in the appropriate parameters (see below), hit 'Confirm and run'. This will start the algorithm. You will see the progress of each close reported on the terminal.
+When you start this application, a blank terminal will appear. Please allow for up to 15 seconds for the application interface to appear as well.
+Once you have entered in the appropriate parameters (see below), hit 'Confirm and run'. This will start the algorithm. You will see the progress of each close reported on the terminal.
 
 ### CLOSING THE APPLICATION
-	To close the application, please click the 'X' on the top right of the terminal. This will end th algorithm and you will no longer be watching the market to BUY or SELL.
+To close the application, please click the 'X' on the top right of the terminal. This will end th algorithm and you will no longer be watching the market to BUY or SELL.
 
 ### PARAMETERS
 ##### Sandbox vs Live
