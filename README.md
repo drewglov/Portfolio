@@ -79,6 +79,11 @@ I am always willing to meet new people in hopes of doing business together. I ca
    
    • [MNIST Multi-Layer Perceptron](https://github.com/drewglov/Portfolio/blob/master/Deep%20Learning/MNIST%20with%20Multi-Layer%20Perceptron.ipynb) - In this project we will build out a Multi Layer Perceptron model in Tensorflow to try to classify hand written digits using the famous MNIST data set. The purpose of this project isn't to achieve peak accuracy on the MNIST data set, but rather to demonstrate the underlying concepts of Tensorflow without using contrib.learn.
 
+### Cryptocurrency Strategy Bot
+
+   • [GemBot - Cryptocurrency Portfolio Manager](https://github.com/drewglov/Portfolio/tree/master/GemBot) - This is a cryptocurrency strategy application I made in order to manage my cryptocurrency portfolio. It is complete with an interactive GUI and multiple strategy parameters. You can learn more by following the link.
+
+
 ### Misc.
 
 ##### Principal Component Analysis
