@@ -117,7 +117,7 @@ def run_app():
     UNIQUE_INSTANCE = int(ents['Unique Instance'].get())
     
     envar = ents['environment'].get()
-    if envar == 2:
+    if envar == "2":
         environment = "https://api.gemini.com"
         SOCKET = "wss://api.gemini.com/v2/marketdata"
     else:
