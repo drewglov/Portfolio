@@ -49,12 +49,19 @@ This is the currency you are trading with. When you BUY, you are paying with thi
 
 ##### Candle Length
 This is the length of each period as it relates to RSI and Bollinger Bands. The application will receive the close price at the end of each period and use it to calculate BUY and SELL criteria. The length of the candle will partly determine your trade strategy. Use a longer length for a more long term strategy, and a shorter length to constantly check the market for quick BUY and SELL opportunities. The options are:
+
 1m - 1 minute
+
 5m - 5 minutes
+
 15m - 15 minutes
+
 30m - 30 minutes
+
 1hr - 1 hour
+
 6hr - 6 hours
+
 1d - 1 day
 
 ##### RSI Periods
