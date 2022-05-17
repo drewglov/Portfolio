@@ -79,6 +79,24 @@ I am always willing to meet new people in hopes of doing business together. I ca
    
    • [MNIST Multi-Layer Perceptron](https://github.com/drewglov/Portfolio/blob/master/Deep%20Learning/MNIST%20with%20Multi-Layer%20Perceptron.ipynb) - In this project we will build out a Multi Layer Perceptron model in Tensorflow to try to classify hand written digits using the famous MNIST data set. The purpose of this project isn't to achieve peak accuracy on the MNIST data set, but rather to demonstrate the underlying concepts of Tensorflow without using contrib.learn.
 
+
+### Analysis
+
+##### Data Exploration and Analysis
+   • [Exploratory Data Analysis on Stock Prices](https://github.com/drewglov/Portfolio/blob/master/Misc/Data%20Exploration%20%26%20Analysis%20-%20Stock%20Prices.ipynb) - In this project we will focus on exploratory data analysis of stock prices. We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
+   
+   • [Benchmarking KPIs](https://github.com/drewglov/Portfolio/blob/master/Analysis/Benchmarking.ipynb) - For this analysis we will benchmark key performance indicators such as sales, units, page views, etc. for a specific brand by comparing the current month to the brand's average, as well as the averages of other similar brands in the same industry.
+   
+   • [Customer Lifetime Value](https://github.com/drewglov/Portfolio/blob/master/Analysis/CLTV.ipynb) - Here we will find the expected customer lifetime value for customers of a specific brand on a rolling 12 month basis.
+   
+   • [Fitting a Steep Curve](https://github.com/drewglov/Portfolio/blob/master/Analysis/Fitting%20a%20steep%20curve.ipynb) - Sometimes it is necessary to manually fit a steep curve. In this notebook we will work through multiple methods of fitting a curve before determining and using the best fit.
+
+
+### Data Visualization
+
+   • [Word Cloud Generation](https://github.com/drewglov/Portfolio/blob/master/DataViz/Cloud%20Generator.ipynb) - Here we will create a word cloud based on the most frequentily used words in Amazon reviews for a product.
+
+
 ### Cryptocurrency Strategy Bot
 
    • [GemBot - Cryptocurrency Portfolio Manager](https://github.com/drewglov/Portfolio/tree/master/GemBot) - This is a cryptocurrency strategy application I made in order to manage my cryptocurrency portfolio. It is complete with an interactive GUI and multiple strategy parameters. You can learn more by following the link.
@@ -88,10 +106,6 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ##### Principal Component Analysis
    • [PCA on Breast Cancer Data Set Features](https://github.com/drewglov/Portfolio/blob/master/Misc/Principal%20Component%20Analysis.ipynb) - In this project we will be performing Principal Component Analysis (PCA) on the breast cancer dataset you might be familiar with from other projects in this portfolio.
-
-
-##### Data Exploration and Analysis
-   • [Exploratory Data Analysis on Stock Prices](https://github.com/drewglov/Portfolio/blob/master/Misc/Data%20Exploration%20%26%20Analysis%20-%20Stock%20Prices.ipynb) - In this project we will focus on exploratory data analysis of stock prices. We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
 
 
 ##### Image Processing
