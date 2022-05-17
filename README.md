@@ -82,7 +82,6 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
 ### Analysis
 
-##### Data Exploration and Analysis
    • [Exploratory Data Analysis on Stock Prices](https://github.com/drewglov/Portfolio/blob/master/Misc/Data%20Exploration%20%26%20Analysis%20-%20Stock%20Prices.ipynb) - In this project we will focus on exploratory data analysis of stock prices. We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
    
    • [Benchmarking KPIs](https://github.com/drewglov/Portfolio/blob/master/Analysis/Benchmarking.ipynb) - For this analysis we will benchmark key performance indicators such as sales, units, page views, etc. for a specific brand by comparing the current month to the brand's average, as well as the averages of other similar brands in the same industry.
