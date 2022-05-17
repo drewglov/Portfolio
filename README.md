@@ -84,7 +84,7 @@ I am always willing to meet new people in hopes of doing business together. I ca
 
    • [Exploratory Data Analysis on Stock Prices](https://github.com/drewglov/Portfolio/blob/master/Misc/Data%20Exploration%20%26%20Analysis%20-%20Stock%20Prices.ipynb) - In this project we will focus on exploratory data analysis of stock prices. We'll focus on bank stocks and see how they progressed throughout the financial crisis all the way to early 2016.
    
-   • [Benchmarking KPIs](https://github.com/drewglov/Portfolio/blob/master/Analysis/Benchmarking.ipynb) - For this analysis we will benchmark key performance indicators such as sales, units, page views, etc. for a specific brand by comparing the current month to the brand's average, as well as the averages of other similar brands in the same industry.
+   • [Benchmarking KPIs](https://github.com/drewglov/Portfolio/blob/master/Analysis/Benchmarking.ipynb) - For this analysis we will benchmark key performance indicators such as sales, units, page views, etc. for a specific brand by comparing the current month to the brand's averages, as well as the averages of other similar brands in the same industry.
    
    • [Customer Lifetime Value](https://github.com/drewglov/Portfolio/blob/master/Analysis/CLTV.ipynb) - Here we will find the expected customer lifetime value for customers of a specific brand on a rolling 12 month basis.
    
