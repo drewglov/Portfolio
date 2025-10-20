@@ -1,0 +1,6 @@
+2025-10-19 20:50:11,898 - excel_logger - INFO - Created new Excel file: trading_log.xlsx
+2025-10-19 20:50:11,898 - __main__ - INFO - Daily tracking reset for 2025-10-19
+2025-10-19 20:50:11,898 - __main__ - INFO - Day Trading Simulator initialized with $100,000.00
+2025-10-19 20:50:47,760 - data_feed - INFO - Market data feed started
+2025-10-19 20:50:47,761 - __main__ - INFO - Trading loop started
+2025-10-19 20:50:47,761 - __main__ - INFO - Day Trading Simulation started
